@@ -4,6 +4,7 @@ namespace CodeBase
 {
     public class Code19
     {
+        //find dupilacte element in array
         static void Main(string[] args)
         {
             string[] strings = { "C#", "web api", "mvc", "C#", "web api" };
