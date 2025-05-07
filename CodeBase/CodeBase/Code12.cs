@@ -1,5 +1,5 @@
 ﻿using System;
-
+// check  given number is  prime or not
 namespace CodeBase
 {
     public class Code12
